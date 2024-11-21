@@ -39,7 +39,7 @@ Plotted predictions on the training and test sets.
 Visualized the forecasted values along with actual data and confidence intervals.
 
 # 8. Model Evaluation
-Assessed model performance using metrics:
+-Assessed model performance using metrics:
 
 Mean Absolute Error (MAE)
 
@@ -47,7 +47,7 @@ Mean Squared Error (MSE)
 
 Root Mean Squared Error (RMSE)
 
-Diagnosed residuals for:
+-Diagnosed residuals for:
 
 Normality (Jarque-Bera test, skewness, and kurtosis).
 
