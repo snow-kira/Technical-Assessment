@@ -65,3 +65,5 @@ Repeated modeling and evaluation post-transformation.
 While the SARIMA(1,0,2)x(2,1,1)12 model performed reasonably well, residual diagnostics revealed issues such as heteroskedasticity and non-normality.
 
 Applying Box-Cax transformation improved the model but did not completely eliminate these issues.
+
+Using ARCH/GARCH models to capture time-varying volatility and incorporating it as an exogenous variable in the SARIMA model, might further enhance the model's performance.
