@@ -1,6 +1,5 @@
-# Technical-Assessment
+# Forecasting Industrial Production of Electric and Gas Utilities.
 
-Forecasting Industrial Production of Electric and Gas Utilities
 This project builds a model to forecast the industrial production of electric and gas utilities using historical monthly data from January 1939 to September 2022. 
 
 Data Source: Industrial Production: Electric and Gas Utilities Link: https://fred.stlouisfed.org/series/IPG2211A2N
